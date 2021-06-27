@@ -1,0 +1,16 @@
+{
+  "name": "love-death-webpack",
+  "version": "0.0.1",
+  "description": "Webpack React and TypeScript",
+  "main": "index.js",
+  "author": {
+    "name": "playlife",
+    "url": "https://github.com/playlife1",
+    "email": "playbighard@outlook.com"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git@github.com:playlife1/love-death-webpack.git"
+  },
+  "license": "MIT"
+}

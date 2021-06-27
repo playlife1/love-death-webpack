@@ -1,0 +1,13 @@
+// 推荐安装 VS Cosd 插件
+
+{
+  "recommendations": [
+      "editorconfig.editorconfig", // 统一编辑器风格
+      "dbaeumer.vscode-eslint", // es-lint
+      "esbenp.prettier-vscode", // prettier
+      "stylelint.vscode-stylelint", // stylelint"
+      "dsznajder.es7-react-js-snippets", // 常用代码 snippets
+      "mrmlnc.vscode-scss", //
+      "benjaminadk.emojis4git"
+  ]
+}
